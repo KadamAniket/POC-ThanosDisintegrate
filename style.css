@@ -1,0 +1,12 @@
+body{
+   margin:0;
+}
+
+#imgDis{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(toronto.jpeg);
+    background-size: cover;
+    background-position:center;
+}
+    
